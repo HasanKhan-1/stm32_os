@@ -1,0 +1,13 @@
+main.c:60:5:__io_putchar	1
+main.c:70:6:jumpAssembly	1
+main.c:75:6:print_continuously	1
+main.c:83:6:print_my_name	1
+main.c:87:6:test_func_1	1
+main.c:95:6:test_func_2	1
+main.c:103:6:thread_function	2
+main.c:121:6:thread_function_yield	1
+main.c:145:5:main	1
+main.c:230:6:SystemClock_Config	3
+main.c:277:13:MX_USART2_UART_Init	2
+main.c:310:13:MX_GPIO_Init	1
+main.c:346:6:Error_Handler	1
